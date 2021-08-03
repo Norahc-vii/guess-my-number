@@ -1,2 +1,2 @@
 # guess-my-number
-my first program(for Common Lisp)
+my first program(in Common Lisp)
